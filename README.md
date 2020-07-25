@@ -1,6 +1,6 @@
 ## About me
 
-I'm a student at National Institute of Technology, Okinawa College in Japan.
+I'm a student at National Institute of Technology, Okinawa College.
 
 ## Events
 
