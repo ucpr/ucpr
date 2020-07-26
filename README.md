@@ -13,3 +13,5 @@ I'm a student at National Institute of Technology, Okinawa College.
 - CyberAgent Internship(CA Tech JOB)
 - Paradise Jam2019
 - other...
+
+![ucpr's github stats](https://github-readme-stats.vercel.app/api?username=ucpr&count_private=true)
