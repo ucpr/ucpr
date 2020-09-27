@@ -12,6 +12,7 @@ I'm a student at National Institute of Technology, Okinawa College.
 - Cookpad Container Internship
 - CyberAgent Internship(CA Tech JOB)
 - Paradise Jam2019
+- Security Camp 2020(Track B)
 - other...
 
 ![ucpr's github stats](https://github-readme-stats.vercel.app/api?username=ucpr&count_private=true)
