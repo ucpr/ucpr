@@ -1,18 +1,34 @@
 ## About me
 
-I'm a student at National Institute of Technology, Okinawa College.
+I'm a student at National Institute of Technology, Okinawa College.  
 
-## Events
+![Twitter Follow](https://img.shields.io/twitter/follow/u_chi_ha_ra_?color=green&style=flat-square)
 
-- The 28 th Kosen Programming Contest
-- Kosen Hackathon 2017 in Hakodate
-- Paradise Jam2017 plus
-- SecHack365 2018
-- Retty summer Internship
-- Cookpad Container Internship
-- CyberAgent Internship(CA Tech JOB)
-- Paradise Jam2019
-- Security Camp 2020(Track B)
-- other...
+<details>
+  <summary>Skills</summary>
+
+  - Web developments
+  - Python
+  - Go
+  - React / JavaScript
+  - Linux
+
+</details>
+
+<details>
+  <summary>Events</summary>
+
+  - The 28 th Kosen Programming Contest
+  - Kosen Hackathon 2017 in Hakodate
+  - Paradise Jam2017 plus
+  - SecHack365 2018
+  - Retty summer Internship
+  - Cookpad Container Internship
+  - CyberAgent Internship(CA Tech JOB)
+  - Paradise Jam2019
+  - Security Camp 2020(Track B)
+  - etc...
+  
+</details>
 
 ![ucpr's github stats](https://github-readme-stats.vercel.app/api?username=ucpr&count_private=true)
