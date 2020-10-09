@@ -7,11 +7,11 @@ I'm a student at National Institute of Technology, Okinawa College.
 <details>
   <summary>Skills</summary>
 
-  - Web developments
-  - Python
-  - Go
-  - React / JavaScript
-  - Linux
+  - <img src="https://icongr.am/clarity/cloud-network.svg?size=25&color=currentColor"></img> Web developments
+  - <img src="https://icongr.am/devicon/python-original.svg?size=25&color=currentColor"></img> Python
+  - <img src="https://icongr.am/devicon/go-original.svg?size=25&color=currentColor"></img> Go
+  - <img src="https://icongr.am/devicon/react-original.svg?size=25&color=currentColor"></img> React / JavaScript
+  - <img src="https://icongr.am/devicon/linux-original.svg?size=25&color=currentColor"></img> Linux
 
 </details>
 
