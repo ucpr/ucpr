@@ -1,6 +1,6 @@
 ## About me
 
-I'm a student at National Institute of Technology, Okinawa College.  
+I'm a software engineer working in Shibuya.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/u_chi_ha_ra_?color=green&style=flat-square)
 
