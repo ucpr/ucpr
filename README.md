@@ -20,6 +20,7 @@ I'm a software engineer working in Shibuya.
 
   - The 28 th Kosen Programming Contest
   - Kosen Hackathon 2017 in Hakodate
+  - Mixi Git Challenge
   - Paradise Jam2017 plus
   - SecHack365 2018
   - Retty summer Internship
