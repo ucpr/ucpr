@@ -12,24 +12,8 @@ I'm a software engineer working in Shibuya.
   - <img src="https://icongr.am/devicon/go-original.svg?size=25&color=currentColor"></img> Go
   - <img src="https://icongr.am/devicon/react-original.svg?size=25&color=currentColor"></img> React / JavaScript
   - <img src="https://icongr.am/devicon/linux-original.svg?size=25&color=currentColor"></img> Linux
-
-</details>
-
-<details>
-  <summary>Events</summary>
-
-  - The 28 th Kosen Programming Contest
-  - Kosen Hackathon 2017 in Hakodate
-  - Mixi Git Challenge
-  - Paradise Jam2017 plus
-  - SecHack365 2018
-  - Retty summer Internship
-  - Cookpad Container Internship
-  - CyberAgent Internship(CA Tech JOB)
-  - Paradise Jam2019
-  - Security Camp 2020(Track B)
   - etc...
-  
+
 </details>
 
 <details>
