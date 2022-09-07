@@ -4,9 +4,7 @@ I'm a software engineer working in Shibuya.
 
 <img src="https://img.shields.io/twitter/follow/u_chi_ha_ra_?color=green&style=flat-square"></img>
 <img src="https://icongr.am/clarity/cloud-network.svg?size=25&color=currentColor"></img>
-<img src="https://icongr.am/devicon/python-original.svg?size=25&color=currentColor"></img>
 <img src="https://icongr.am/devicon/go-original.svg?size=25&color=currentColor"></img>
-<img src="https://icongr.am/devicon/react-original.svg?size=25&color=currentColor"></img>
 <img src="https://icongr.am/devicon/linux-original.svg?size=25&color=currentColor"></img>
 
 <details>
