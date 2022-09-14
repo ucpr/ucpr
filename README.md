@@ -19,6 +19,7 @@ I'm a software engineer working in Shibuya.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [connect-go での Health Check について](https://medium.com/tech-commons/connect-go-%E3%81%A7%E3%81%AE-health-check-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-ce12e38224a2?source=rss-5464137a9e29------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![ucpr's github stats](https://github-readme-stats.vercel.app/api?username=ucpr&count_private=true)
