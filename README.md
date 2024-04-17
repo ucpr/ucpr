@@ -1,7 +1,7 @@
 ## About me
 
 <img src="https://icongr.am/devicon/go-original.svg?size=25&color=currentColor"></img>
-I'm a software engineer working in Shibuya. 
+I'm a software engineer working in Shibuya/Tokyo. 
 
 ## Recent Blog Posts
 
