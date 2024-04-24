@@ -5,6 +5,8 @@ I'm a software engineer working in Shibuya/Tokyo.
 
 ## Recent Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Certificates
 - 2022-02: [Google Cloud Certified Professional Cloud Architect](https://www.credential.net/1fe360ea-22e9-4dac-bc95-081f6108e9a5)
