@@ -6,10 +6,10 @@ I'm a software engineer working in Shibuya/Tokyo.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Neovimのプラグイン管理をdpp.vimに移行した](https://www.ucpr.dev/articles/neovim_2024_may)
+- [Neovimのプラグイン管理をdpp.vimに移行した](https://ucpr.dev/articles/neovim_2024_may/)
 - [log/slog への移行について考えてみる](https://zenn.dev/ucpr/scraps/7c8b8b8fdb3a8f)
-- [GoでXMLのCDATAにXMLを埋め込む](https://www.ucpr.dev/articles/go_nested_xml_in_cdata)
-- [markdown-rsでfront matterの値を参照する](https://www.ucpr.dev/articles/markdown-rs_front-matter)
+- [GoでXMLのCDATAにXMLを埋め込む](https://ucpr.dev/articles/go_nested_xml_in_cdata/)
+- [markdown-rsでfront matterの値を参照する](https://ucpr.dev/articles/markdown-rs_front-matter/)
 - [Atlantis on Cloud Run の動作検証](https://zenn.dev/ucpr/scraps/d9760b961f7e48)
 <!-- BLOG-POST-LIST:END -->
 
