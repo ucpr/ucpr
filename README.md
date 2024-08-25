@@ -6,11 +6,11 @@ I'm a software engineer working in Shibuya/Tokyo.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [telemetrygenで行うOpenTelemetry Collectorの負荷試験](https://ucpr.dev/articles/otelcol-loadtest-with-telemetrygen/)
 - [Astro+SolidJS+Tailwindでブログを作り直した](https://ucpr.dev/articles/recreate_blog_by_astro/)
 - [Neovimのプラグイン管理をdpp.vimに移行した](https://ucpr.dev/articles/neovim_2024_may/)
 - [log/slog への移行について考えてみる](https://zenn.dev/ucpr/scraps/7c8b8b8fdb3a8f)
 - [GoでXMLのCDATAにXMLを埋め込む](https://ucpr.dev/articles/go_nested_xml_in_cdata/)
-- [markdown-rsでfront matterの値を参照する](https://ucpr.dev/articles/markdown-rs_front-matter/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Certificates
