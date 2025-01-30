@@ -14,6 +14,12 @@ I'm a software engineer working in Shibuya/Tokyo.
 
 ## Recent Blog Posts
 
+### External
+
+- [ABEMA のオブザーバビリティアーキテクチャ変遷](https://findy-tools.io/articles/abematv/37)
+
+### Internal
+
 <!-- BLOG-POST-LIST:START -->
 - [tracetest で Trace-based Testing に触れてみる](https://ucpr.dev/articles/intro_trace_based_test/)
 - [Cloud Trace のデータを BigQuery にエクスポートする](https://ucpr.dev/articles/cloud_trace_bq_sink/)
