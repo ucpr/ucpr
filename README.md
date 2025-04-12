@@ -21,7 +21,6 @@ I'm a software engineer working in Shibuya/Tokyo.
 ### Internal
 
 <!-- BLOG-POST-LIST:START -->
-- [ABEMA のオブザーバビリティアーキテクチャ変遷](https://ucpr.dev/articles/external-Findy Tools-aHR0cHM6)
 - [tracetest で Trace-based Testing に触れてみる](https://ucpr.dev/articles/intro_trace_based_test)
 - [Cloud Trace のデータを BigQuery にエクスポートする](https://ucpr.dev/articles/cloud_trace_bq_sink)
 - [telemetrygenで行うOpenTelemetry Collectorの負荷試験](https://ucpr.dev/articles/otelcol-loadtest-with-telemetrygen)
