@@ -14,12 +14,6 @@ I'm a software engineer working in Shibuya/Tokyo.
 
 ## Recent Blog Posts
 
-### External
-
-- [ABEMA のオブザーバビリティアーキテクチャ変遷](https://findy-tools.io/articles/abematv/37)
-
-### Internal
-
 <!-- BLOG-POST-LIST:START -->
 - [opentelemetry-go で計装した Span の属性を SpanProcessor で加工する](https://ucpr.dev/articles/edit_attr_span_processor/)
 - [ABEMA のオブザーバビリティアーキテクチャ変遷](https://findy-tools.io/articles/abematv/37)
