@@ -21,10 +21,11 @@ I'm a software engineer working in Shibuya/Tokyo.
 ### Internal
 
 <!-- BLOG-POST-LIST:START -->
-- [opentelemetry-go で計装した Span の属性を SpanProcessor で加工する](https://ucpr.dev/articles/edit_attr_span_processor)
-- [tracetest で Trace-based Testing に触れてみる](https://ucpr.dev/articles/intro_trace_based_test)
-- [Cloud Trace のデータを BigQuery にエクスポートする](https://ucpr.dev/articles/cloud_trace_bq_sink)
-- [telemetrygenで行うOpenTelemetry Collectorの負荷試験](https://ucpr.dev/articles/otelcol-loadtest-with-telemetrygen)
+- [opentelemetry-go で計装した Span の属性を SpanProcessor で加工する](https://ucpr.dev/articles/edit_attr_span_processor/)
+- [ABEMA のオブザーバビリティアーキテクチャ変遷](https://findy-tools.io/articles/abematv/37)
+- [tracetest で Trace-based Testing に触れてみる](https://ucpr.dev/articles/intro_trace_based_test/)
+- [Cloud Trace のデータを BigQuery にエクスポートする](https://ucpr.dev/articles/cloud_trace_bq_sink/)
+- [telemetrygenで行うOpenTelemetry Collectorの負荷試験](https://ucpr.dev/articles/otelcol-loadtest-with-telemetrygen/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Certificates
