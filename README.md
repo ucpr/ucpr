@@ -5,10 +5,7 @@ I'm a software engineer working in Shibuya/Tokyo.
 ## <img src="https://icongr.am/devicon/go-original.svg?size=25&color=currentColor"></img> Interested <img src="https://icongr.am/devicon/go-original.svg?size=25&color=currentColor"></img>
 
 - Developer Productivity
-- Monitoring and Observability
-  - OpenTelemetry
-  - Grafana family
-  - ...
+- Observability
 - Software Architecture
 - and all
 
