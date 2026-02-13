@@ -12,11 +12,11 @@ I'm a software engineer working in Shibuya/Tokyo.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bazel で Go の PGO ビルドを行う](https://ucpr.dev/articles/bazel_go_pgo_build/)
+- [dd-trace-go で計装していないアプリケーションで Datadog Profiler の Endpoint Profiling を実現する](https://ucpr.dev/articles/datadog_opentelemetry_endpoint_profiling/)
+- [open-telemetry/weaver を利用したカスタム Semantic Conventions の管理](https://ucpr.dev/articles/intro_otel_weaver/)
 - [opentelemetry-go で計装した Span の属性を SpanProcessor で加工する](https://ucpr.dev/articles/edit_attr_span_processor/)
 - [ABEMA のオブザーバビリティアーキテクチャ変遷](https://findy-tools.io/articles/abematv/37)
-- [tracetest で Trace-based Testing に触れてみる](https://ucpr.dev/articles/intro_trace_based_test/)
-- [Cloud Trace のデータを BigQuery にエクスポートする](https://ucpr.dev/articles/cloud_trace_bq_sink/)
-- [telemetrygenで行うOpenTelemetry Collectorの負荷試験](https://ucpr.dev/articles/otelcol-loadtest-with-telemetrygen/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Certificates
