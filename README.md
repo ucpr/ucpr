@@ -1,11 +1,11 @@
 ## About me
 
-I'm a software engineer working in Shibuya/Tokyo. 
+Software Engineer focused on Backend, SRE, and Observability.
 
-## <img src="https://icongr.am/devicon/go-original.svg?size=25&color=currentColor"></img> Interested <img src="https://icongr.am/devicon/go-original.svg?size=25&color=currentColor"></img>
+## Interests
 
-- Developer Productivity
 - Observability
+- Distributed Systems
 - Software Architecture
 - and all
 
