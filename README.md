@@ -12,7 +12,7 @@ Software Engineer focused on Backend, SRE, and Observability.
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry Collector を利用して Kubernetes の Event を通知させる](https://ucpr.dev/articles/k8s_events_to_slack_with_otel/)
+- [OpenTelemetry Collector を利用して Kubernetes の Event を Slack 通知させる](https://ucpr.dev/articles/k8s_events_to_slack_with_otel/)
 - [dd-trace-go の OTLP Trace Export 機能を利用する](https://ucpr.dev/articles/export_traces_from_dd-trace-go/)
 - [Bazel で Go の PGO ビルドを行う](https://ucpr.dev/articles/bazel_go_pgo_build/)
 - [dd-trace-go で計装していないアプリケーションで Datadog Profiler の Endpoint Profiling を実現する](https://ucpr.dev/articles/datadog_opentelemetry_endpoint_profiling/)
